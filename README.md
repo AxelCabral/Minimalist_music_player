@@ -1,16 +1,10 @@
-# minimalist_music_player
+# Minimalist Music Player
 
-A new Flutter project.
+Minimalist music player app, made on flutter masterclass from Mitch Koko.
 
-## Getting Started
+## Tecnologies
+  - Flutter
+  - Dart
+  - Provider
+  - AudioPlayers
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
